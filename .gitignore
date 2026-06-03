@@ -1,4 +1,7 @@
 node_modules/
+.vscode/
+.idea/
+.idea/workspace.xml
 .expo/
 dist/
 npm-debug.*
@@ -10,7 +13,7 @@ npm-debug.*
 *.orig.*
 web-build/
 
-
+.env*.local
 
 
 ios
